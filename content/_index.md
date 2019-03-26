@@ -1,27 +1,17 @@
 ---
-title: Home
+title: ASMR 
 ---
 
-# Hello World! (It works!)
+**Mojím cieľom je informovať o pomerne novom fenoméne zvanom ASMR.**
 
-This are the contents of the Hugo start website front page.
+ASMR (Autonomous Sensory Meridian Response) možno definovať ako skúsenosť, charakterizovateľnú akýmsi pocitom "šteklenia", ktorý bežne začína na temene hlavy a pokračuje do zvyšku tela. 
 
-## Something to read: Sonnet LXVI.
+Písmená ASMR značia nasledovné: A=Autonomous (spontánne, bez kontroly), S=Sensory (týkajúce sa zmyslov alebo pocitov), M=Meridian (bod či vrchol najvyššieho rozvoja), R=Response (je potrebný akýsi spúšťač, na ktorý potom telo reaguje).
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+ASMR je v súčasnej dobe rozvinuté na YouTube, kde je možné ho nájsť v rôznych druhoch a prevedeniach.
 
+https://en.wikipedia.org/wiki/Autonomous_sensory_meridian_response
+
+https://www.youtube.com/watch?v=Kb27NHO_ubg
+
+https://www.youtube.com/watch?v=vFqbWwKg_o4
