@@ -5,49 +5,79 @@ menu:
     weight: 30
 ---
 Cieľová skupina: 
+
 * vystresovaní študenti
+
 * ľudia zamestnaní v stresujúcej práci, resp. všetci pracujúci
+
 * matky s deťmi na materskej dovolenke 
+
 * ľudia trpiaci nespavosťou
 
-Názov webu: ASMR - zvuky, ktoré liečia
+Názov webu: **ASMR - zvuky, ktoré liečia**
 
 Webové zdroje:
+
 * [Wikipedia][]
+
 * [Urban Dictionary][]
+
 * [Psychology today][]
+
 * [Esquire][]
+
 * [The Guardian][]
 
 Newebové zdroje:
+
 * [Brain Tingles: The Secret to Triggerinng Autonomous Sensory Meridian Response - Richard Craig][]
+
 * [Asmr: The Sleep Revolution - Benjamin Nicholls][]
+
 * [The Occult Basis of ASMR: Autonomous Sensory Meridian Response and the Occult - Tarl Warwick][]
+
 * [ASMR - Ilsa Blansert, Julie Young][]
+
 * [Asmr: A scientific, Social and Cultural Phenomenon - Justin Rome][]
 
 Dostupné multimédiá:
+
 * [Gentle Whispering ASMR][]
+
 * [SAS-ASMR][]
+
 * [ASMRSurge][]
 
 Vizuálna inšpirácia (blogy):
+
 * [delicious days][]
+
 * [Olivia Kissper ASMR][]
 
 Štruktúra:
+
 * vznik
+
 * najznámejšie kanály na YouTube
+
 * laické odozvy
+
 * vedecké pozorovania
+
 * najpopulárnejšie sposoby ASMR
+
 * naša vlastná skúsenosť part 1
+
 * naša vlastná skúsenosť part 2
+
 * ASMR v reklamách
+
 * technické vybavenie
+
 * ako si vytvoriť vlastné ASMR video 
 
 Stratégia:
+
 * poskytovanie podrobnejších informácií k štruktúre
 
 [Wikipedia]: https://wikipedia.org
