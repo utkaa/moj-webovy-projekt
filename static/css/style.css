@@ -23,6 +23,7 @@ footer {
   padding-bottom: 2em;
   min-height: 400px;
   background-color: pink; 
+
 }
 
 aside {
@@ -33,6 +34,7 @@ aside {
 
 nav ul {
   list-style-type: none;
+  text-decoration: line-through;
   padding: 0;
 }
 
