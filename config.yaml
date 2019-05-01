@@ -2,6 +2,7 @@ title: ASMR = Zvuky, ktoré možno cítiť
 baseURL: https://amazing-kepler-3641a5.netlify.com/
 languageCode: cs-cz
 publishDir: public
+googleAnalytics: "UA-139389898-1"
 
 menu:
   main:
