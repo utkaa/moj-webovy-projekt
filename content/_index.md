@@ -2,7 +2,7 @@
 title: ASMR 
 ---
 
-**Mojím cieľom je informovať o pomerne novom fenoméne zvanom ASMR.**
+**Vítame Vás**
 
 ASMR (Autonomous Sensory Meridian Response) možno definovať ako skúsenosť, charakterizovateľnú akýmsi pocitom "šteklenia", ktorý bežne začína na temene hlavy a pokračuje do zvyšku tela. 
 

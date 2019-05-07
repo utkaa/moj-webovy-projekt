@@ -29,20 +29,21 @@ body {
   margin: 30px auto;
   max-width: 800px;
   padding: 20px;
-  background-color: #ffccff;
   font-weight: normal;
+  background-color: #ffccffů
 }
 
 header {
   padding: 30px 0 0;
   border-bottom: solid;
   border-color: #ffe6ff;
-  background-color: #ffccff;
   background-repeat: repeat;
   background-position: center;
+  background-color: #ffccff;	
   margin-top: 10px;
   margin-bottom: 10px;
   letter-spacing: 1px;
+  display:block;
 }
 
 footer {
