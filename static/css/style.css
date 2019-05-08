@@ -1,14 +1,15 @@
 
 h1 {
-	font-size: 30px;
+	font-size: 3em;;
 	letter-spacing: 1px;
 	font-style: italic;
-	font-weight: normal;
+	font-weight: lighter;
+	color: pink;
 }
 
 h2 {
 	font-style: italic;
-	font-size: 10px
+	font-size: 2em;
 	letter-spacing: 1px;
 	font-weight: normal;
 }
@@ -19,30 +20,24 @@ h2 {
 }
 
 body {
-	font-family: "Georgia", serif, monospace;
+	font-family:'Open Sans Condensed', sans-serif;
 	background-image: url("http://66.media.tumblr.com/92a1887f1a0c9e24fa499d854387eec6/tumblr_ny6nheWsdm1uhrjdjo3_1280.gif");
 	border-style: none;
-	margin-top: 35px;
 }
 
 .wrapper {
   margin: 30px auto;
-  max-width: 800px;
+  max-width: 80%;
   padding: 20px;
   font-weight: normal;
-  background-color: #ffccffů
+  background-color: #ffffff;
 }
 
 header {
-  padding: 30px 0 0;
+  padding: 2em 1em;
   border-bottom: solid;
-  border-color: #ffe6ff;
-  background-repeat: repeat;
-  background-position: center;
-  background-color: #ffccff;	
-  margin-top: 10px;
-  margin-bottom: 10px;
-  letter-spacing: 1px;
+  border-color: pink;
+  background-color: #ffffff;
   display:block;
 }
 
@@ -50,7 +45,7 @@ footer {
   border-top: solid;
   clear: both;
   font-style: italic;
-  border-color: #ffe6ff;
+  border-color: pink;
   margin-top: 5px;
   margin-bottom: 5px;
   float: none;
@@ -62,38 +57,45 @@ footer {
 
 .page {
   float: right;
-  width: 70%;
+  width: 80%;
   border-left: solid;
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
-  background-color: #ffccff; 
+  background-color: #ffffff; 
   letter-spacing: 1px;
-  border-color: #ffe6ff;
+  font-size: 1em;
+  border-color: pink;
   margin-bottom: 10px;
   font-kerning: auto;
 }
 
 aside {
   float: left;
-  width: 25%;
-  margin-top: 1em;
-  background-color: #ffccff;
+  width: 15%;
+  background-color: #ffffff;
 }
 
 nav ul {
-  list-style-type: none;
-  text-decoration: underline;
-  padding: 0;
-  font-style: italic;
+  list-style-type: disc;
+  padding-bottom: 0;
   font-kerning: auto;
-  letter-spacing: 1px;
 }
 
 nav li {
   margin-bottom: 1em;
+  color: #ff95da;
+  font-family: 'Roboto', sans-serif;
 }
 
 nav .active {
   font-weight: bold;
+  color:#ff68ca;
+}
+a {
+  text-decoration:none;
+  color: #ff95da;
+}
+a:visited {
+  color: #ff95da;
 }
