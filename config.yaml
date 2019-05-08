@@ -9,12 +9,12 @@ menu:
     - name: Homepage
       url: /
       weight: 10
-    - name: Archive
+    - name: Archív
       identifier: post
       url: /post/
       weight: 20
 
 params:
-  description: Description of my new site.
-  authors: Authors
+  description:
+  authors: Alexandra, Gabika
 
