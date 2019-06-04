@@ -84,18 +84,18 @@ nav ul {
 
 nav li {
   margin-bottom: 1em;
-  color: #ff95da;
+  color: #ff3ea0;
   font-family: 'Roboto', sans-serif;
 }
 
 nav .active {
   font-weight: bold;
-  color:#ff68ca;
+  color:#fd0f88;
 }
 a {
   text-decoration:none;
-  color: #ff95da;
+  color: #fd0f88;
 }
 a:visited {
-  color: #ff95da;
+  color: #ff3ea0;
 }
