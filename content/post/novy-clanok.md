@@ -8,7 +8,7 @@ tags:
 V tomto článku sa snažím o pridanie videa, v ktorom je popísané, čo je to ASMR a ako sa stalo internetovým fenoménom.
 Tento obsah som vybrala, pretože sa logicky hodí k téme môjho projektu.
 
-<!DOCTYPE html>
+
 <html>
 <body>
 
